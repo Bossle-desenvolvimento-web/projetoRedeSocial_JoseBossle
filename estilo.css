@@ -9,10 +9,13 @@
 
   main{height: 100vh;
         position: relative;
-        background-color: green;
-        background-image: url('imgs/fundo-madeira.jpg')} 
+       
+       } 
         
-      
+      body{ background-image: url('imgs/fundo-madeira.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+            }
     
        #telefone{height: 627px;
                  width: 311px;

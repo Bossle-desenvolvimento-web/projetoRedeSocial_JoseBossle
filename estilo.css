@@ -26,3 +26,10 @@
                transform: translate(-50%, -50%);
                background-image: url('imgs/frame-iphone.png') ;
                 background-size: cover;} 
+
+
+      iframe#tela{position: relative;
+                   top:150px;
+                   left:30px;
+                    width: 400px;
+                     left:706px;}          
